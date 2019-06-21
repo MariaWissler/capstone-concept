@@ -1,5 +1,4 @@
-# capstone-concept
-Maria's Cup of Sugar
+
 # Capstone Concept - Maria Wissler
 
 ## Problem Statement 
