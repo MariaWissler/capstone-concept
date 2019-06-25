@@ -47,6 +47,7 @@ Expand to different products
 - Database in Mongo DB
 - JavaScript Wiring 
 - Consume Google Maps API 
+- Consume Google Vision AI
 
 ## Additional content, diagrams, wireframes, user flows, etc.
 Work in Progress 
@@ -56,3 +57,4 @@ Work in Progress
 <p align="left">
   <img width="350" height="300" src="https://github.com/MariaWissler/capstone/blob/master/Snip%202019-06-20%2021.29.38.png">
 </p>
+
